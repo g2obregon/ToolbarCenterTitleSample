@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToolbarCenterTitleSample</string>
+    <string name="title_activity_main">"I am Centered"</string>
+</resources>
